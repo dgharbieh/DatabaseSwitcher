@@ -1,0 +1,5 @@
+C:\Work\DatabaseSwitcher\DatabaseSwitcher\bin\DatabaseSwitcher.dll
+C:\Work\DatabaseSwitcher\DatabaseSwitcher\bin\DatabaseSwitcher.pdb
+C:\Work\DatabaseSwitcher\DatabaseSwitcher\obj\Debug\DatabaseSwitcher.dll
+C:\Work\DatabaseSwitcher\DatabaseSwitcher\obj\Debug\DatabaseSwitcher.pdb
+C:\Work\DatabaseSwitcher\DatabaseSwitcher\obj\Debug\DatabaseSwitcher.csprojResolveAssemblyReference.cache
